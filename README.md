@@ -5,8 +5,7 @@
 
 We’re currently getting the code ready for release and expect to make it publicly available soon.
 
- 
- [Paper]([https://arxiv.org/abs/2512.00470](https://arxiv.org/abs/2512.15020))
+[Paper](https://arxiv.org/abs/2512.15020)
 
 ## Citation <a name="citation"></a>
 
