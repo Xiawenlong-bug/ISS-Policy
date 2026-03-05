@@ -75,7 +75,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ```bibtex
 @article{xia2025isspolicyscalable,
   title   = {ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision},
-  author  = {Xia, Wenlong and Zhang, Jinhao and Zhang, Ce and Wang, Yaojia and Gong, Youmin and Mei, Jie},
+  author  = {Xia, Wenlong and Zhang, Jinhao and Zhang, Ce and Wang, Yaojia and Li, Huizhe and Gong, Youmin and Mei, Jie},
   journal = {arXiv preprint arXiv:2512.15020},
   year    = {2025}
 }
